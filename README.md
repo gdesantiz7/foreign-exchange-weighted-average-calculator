@@ -4,3 +4,6 @@ A vast majority of trading in the foreign exchange market as well as many other 
 The primary goal of this project is to provide a basic weighted average function that with a little modification, can not only be used in foreign exchange but also many other asset classes as well.
 
 ## Using the Foreign Exchange Weighted Average Calculator
+First, import List from the typing library followed by holding shift and pressing enter.
+
+Next, copy and paste the fx_weighted_average function into a cell and again hold shift and press enter.  If you would like to enter amounts over 100 units, please comment out (enter # next to each line) the assert statement in the code block "an amount in amounts must be between 1 and 100".  In addition, if you would like to change the multiplier value of the asset, modify the constant value of 1,000,000 in the amounts_1_mio local variable to whatever suits.
