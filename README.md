@@ -1,1 +1,1 @@
-# foreign-exchange-weighted-average-calculator
+# Foreign Exchange Weighted Average Calculator
