@@ -21,4 +21,6 @@ In addition, in currency trading, a lot represents a certain amount of units whi
 
 Lastly, type fx_weighted_average() and within the parenthesis, enter two lists separated by a comma with one representing all the transacted lots and the other with the corresponding prices.  Please note that each lot should be in the same order of the list as its associated price or the weights will be incorrect.
 
-<img src="images/Screen Shot 2019-11-11 at 1.00.08 PM.png" width="350" height="22">
+<img src="images/Screen Shot 2019-11-11 at 1.00.08 PM.png" width="400" height="25">
+
+Using the provided example above, the output should look like this: 6,000,000 at 1.11290
