@@ -3,7 +3,6 @@ A vast majority of trading in the foreign exchange market as well as many other 
 
 The primary goal of this project is to provide a basic weighted average function that can not only be used in foreign exchange but also many other asset classes as well.
 
-
 ## Using the Foreign Exchange Weighted Average Calculator
 First, import List from the typing library followed by holding shift and pressing enter.
 
