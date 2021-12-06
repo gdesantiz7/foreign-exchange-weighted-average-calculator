@@ -22,4 +22,4 @@ Lastly, type fx_weighted_average() and within the parenthesis, enter two lists s
 
 <img src="images/Screen Shot 2019-11-11 at 1.00.08 PM.png" width="400" height="25">
 
-Using the provided example above, the output should look like this: 6,000,000 @ 1.1129
+Using the provided example above, the output should look like this: 6,000,000 @ 1.11290
