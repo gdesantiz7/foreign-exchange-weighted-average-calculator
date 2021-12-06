@@ -6,20 +6,20 @@ The primary goal of this project is to provide a basic weighted average function
 ## Using the Foreign Exchange Weighted Average Calculator
 First, import List from the typing library followed by holding shift and pressing enter.
 
-<img src="images/Screen Shot 2019-11-11 at 12.43.27 PM.png" width="210" height="20">
+
 
 Next, copy and paste the fx_weighted_average function into a cell and again hold shift and press enter.
 
 If you would like to enter an amount over 100, please comment out the entire assert statement in the code block below (enter # next to each line) or change the constant 100 to the desired threshold.
 
-<img src="images/Screen Shot 2019-11-11 at 12.44.52 PM.png" width="550" height="55">
+
 
 In addition, amount represents 1,000,000 units.  If you would like to change the size, simply modify the constant value of 1,000,000 in the amounts_1_mio local variable.
 
-<img src="images/Screen Shot 2019-11-11 at 12.45.09 PM.png" width="350" height="22">
+
 
 Lastly, type fx_weighted_average() and within the parenthesis, enter two lists separated by a comma with one representing all the transacted amounts and the other with the corresponding prices.  Please note that each amount should be in the same order of the list as its associated price or the weights will be incorrect.
 
-<img src="images/Screen Shot 2019-11-11 at 1.00.08 PM.png" width="400" height="25">
+
 
 Using the provided example above, the output should look like this: 6,000,000 @ 1.11290
